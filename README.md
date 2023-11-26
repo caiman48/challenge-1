@@ -18,9 +18,14 @@ Steps taken
 
 ## Usage
 
-- Here its the link to the refactor code of the website so you can take a look of the new code on the website 
+- Here is the link to the website with all the changes applied :
 
 - https://caiman48.github.io/challenge-1/
+
+- Here is the link to where the source code is located in my repository:
+
+- https://github.com/caiman48/challenge-1
+
 
 
 ## Installation
