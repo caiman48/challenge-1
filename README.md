@@ -26,7 +26,7 @@ Steps taken
 
 - https://github.com/caiman48/challenge-1
 
-![Landing Page Screenshot](assets/images/screenshot-of-the-landing-page.PNG)
+![Landing Page Screenshot](/challenge-1/assets/images/screenshot-of-the-landing-page.png)
 
 ## Installation
 
