@@ -1,22 +1,23 @@
+/* Global styling for all elements  */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Body styling */
 body {
     background-color: #d9dcd6;
 }
-
+/* Anchor (link styling */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Paragraph styling */
 p {
     font-size: 16px;
 }
-
+/* Header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,7 +52,7 @@ p {
 }
 
 
-
+/* hero section styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,7 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* float aligment classes */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,13 +71,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Content area styling */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Benefits section atyling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -107,7 +108,7 @@ p {
     max-width: 150px;
 }
 
-
+/* service section styling */
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -130,7 +131,7 @@ p {
 }
 
 
-
+/* footer styling */
 .footer {
     padding: 30px;
     clear: both;
